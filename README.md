@@ -1,6 +1,6 @@
 <div align="center">
 
-# Senko, the Discord bot
+# Senko, the Discord bot.
 ## For your pampering. Forever.
 
 ---
