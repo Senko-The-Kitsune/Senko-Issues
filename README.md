@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/issues/Senko-The-Kitsune/Senko-Issues?color=0088ff">
 </a>
 
-<a href="https://twitter.com/TrueSenko">
+<a href="https://twitter.com/SenkoTheKitsune">
     <img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2FTrueSenko&style=flat">
 </a>
 
